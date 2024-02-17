@@ -6,4 +6,6 @@ npm i react-router-dom --save
 
 npm install axios
 
+node index.js
+
 npm start
