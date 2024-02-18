@@ -1,5 +1,6 @@
 If you were on my PC, I would drag this to C:\Users\NITRO. Just find the counterpart to this. 
 
+Open Visual Studio Code afterwards and find this folder.
 
 Right click on my-app and run the following in sequential order:
 
